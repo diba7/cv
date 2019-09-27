@@ -1,0 +1,20 @@
+/* Font */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* text-align: center; */
+    color: #333;
+    background: #f4f4f4;
+}
+
+img {
+    border-radius: 50%;
+}
+
+img a:hover {
+    transition: 1s 180 dec
+}
+ 
+ul li {
+    list-style-type: none;
+}
+
